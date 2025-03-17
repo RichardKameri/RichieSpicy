@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Kenya Airways Customer Review Sentiment Analysis"
-date: 2025-03-17
+Layout: post
+Title: "Kenya Airways Customer Review Sentiment Analysis"
+Date: 2025-03-17
 author: Richard Kameri
 ---
 
