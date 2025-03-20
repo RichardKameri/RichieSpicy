@@ -1,4 +1,4 @@
-Title: Sentiment Analysis of Kenya Airways Customer Reviews Using Logistic Regression
+Title: Sentiment Analysis of  Customer Reviews Using Logistic Regression
 
 Introduction
 
